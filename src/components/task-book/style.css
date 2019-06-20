@@ -1,0 +1,26 @@
+.task-book{
+    max-width: 992px;
+    padding-top: 24px;
+    margin: 0 auto;
+}
+.task-book .pagination ul{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.task-book .pagination ul li {
+    margin: 12px;
+    cursor: pointer;
+}
+.task-book .pagination ul li a{
+    outline: none;
+}
+.task-book .pagination ul li.disabled {
+    color: #cccccc;
+    cursor: auto
+}
+.task-book .sort-field{
+    display: flex;
+    justify-content: flex-start;
+}

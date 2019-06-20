@@ -1,0 +1,16 @@
+.create-task{
+    max-width: 992px;
+    padding-top: 24px;
+    margin: 0 auto;
+}
+.create-task .root {
+    text-align: left;
+    padding: 24px;
+}
+.create-task .root h2{
+    margin-top: 0;
+}
+.create-task .text-field{
+    padding-bottom: 16px;
+    margin-right: 16px;
+}

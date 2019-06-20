@@ -1,0 +1,17 @@
+.login-screen{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-screen-content{
+    background-color: #ffffff;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.login-screen .login-screen-button{
+    margin-top: 16px;
+}
